@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//djangoczech.github.io/udemy-react/static/css/main.7cefdb41.css",
+    "main.js": "//djangoczech.github.io/udemy-react/static/js/main.11ad1c45.js",
+    "index.html": "//djangoczech.github.io/udemy-react/index.html",
+    "main.7cefdb41.css.map": "//djangoczech.github.io/udemy-react/static/css/main.7cefdb41.css.map",
+    "main.11ad1c45.js.map": "//djangoczech.github.io/udemy-react/static/js/main.11ad1c45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cefdb41.css",
+    "static/js/main.11ad1c45.js"
+  ]
+}
